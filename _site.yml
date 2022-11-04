@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "About"
       href: index.html
+    - text: "Thesis"
+      href: thesis.html
     - text: "Publications"
       href: publications.html
     - text: "mecor"
