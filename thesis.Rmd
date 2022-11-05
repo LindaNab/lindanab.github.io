@@ -2,4 +2,4 @@
 title: "Thesis"
 ---
 
-<a href="https://lindanab.github.io/dissertation.pdf" target="_blank">PDF.</a>
+<a href="https://lindanab.github.io/dissertation.pdf" target="_blank">Please follow this link</a>
